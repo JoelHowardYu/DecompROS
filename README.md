@@ -2,7 +2,7 @@
 DecompROS-ros-humble
 
 
-  --decomp_ros_msgs
+  decomp_ros_msgs
   | 
   --decomp_rviz_plugins
   |
