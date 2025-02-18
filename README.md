@@ -4,7 +4,7 @@ DecompROS-ros-humble
 
   --decomp_ros_msgs
   | 
-  --ddecomp_rviz_plugins
+  --decomp_rviz_plugins
   |
   --decomp_ros_utils
   |
